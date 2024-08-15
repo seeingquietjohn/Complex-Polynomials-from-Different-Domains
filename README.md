@@ -1,1 +1,1 @@
-Learn a simple complex quadratic polynomials from two different distributions of the source data. 
+Learn a simple complex quadratic polynomials from two different souce data distributions. 
